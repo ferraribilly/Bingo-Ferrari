@@ -1,0 +1,12 @@
+os-sys
+time
+hmac
+hashlib
+requests
+logging
+urllib3
+python-dotenv
+tabulate
+colorama
+pyfiglet
+Flask
