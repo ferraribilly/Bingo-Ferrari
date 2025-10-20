@@ -1,2 +1,2 @@
-# Bingo-Ferrari
-Melhores Bingos Online 
+# Bitcoins-Ferrari
+Melhores Bots Online 
